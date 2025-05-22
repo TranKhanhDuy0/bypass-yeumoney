@@ -19,5 +19,5 @@ Lưu ý: Gặp lỗi thì comment vào github để fix. Vui lòng ghi Credit n�
 
 
 ## Bản quyền:
-- [@phantatdung233](https://www.github.com/phantatdung233)
+- [@T đi chôm]
 
