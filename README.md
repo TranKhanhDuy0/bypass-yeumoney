@@ -1,7 +1,7 @@
 
 # Bypass Yeumoney
 
-Bypass Yeumoney - Công cụ tuyệt vời cho người khuyết tật!
+Bypass Yeumoney - Công cụ tuyệt vời!
 
 
 ## Cách dùng
@@ -15,7 +15,7 @@ Bấm vào đây sau khi tải Tampermonkey để tự động cài đặt Bypas
 Sau khi cài xong thì vào link Yeumoney và ĐỢI! :D
 
 > [!WARNING]
-Lưu ý: Gặp lỗi thì comment vào github để fix. Vui lòng ghi Credit nếu có sử dụng code!
+Lưu ý: LOL
 
 
 ## Bản quyền:
