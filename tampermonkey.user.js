@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Bypass Yeumoney
-// @author       xGreen
+// @author       Dev
 // @require      https://raw.githubusercontent.com/phantatdung233/bypass-yeumoney/refs/heads/main/bypass_yeumoney.js
 // @match        https://yeumoney.com/*
 // @grant        GM_xmlhttpRequest
